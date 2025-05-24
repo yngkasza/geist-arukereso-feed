@@ -2,7 +2,7 @@
 <products>
  <product>
   <identifier>
-   anilin-tisztító-anilin-ápoló-kés
+   anilin-tisztító-anilin-ápoló-készlet
   </identifier>
   <manufacturer>
    Geist
@@ -69,7 +69,7 @@ Applikátor szivacs 1db
    19500
   </price>
   <productUrl>
-   https://geistshop.hu  products  anilin-apolo-es-tisztito-keszlet
+   https://geistshop.hu/products/anilin-apolo-es-tisztito-keszlet
   </productUrl>
   <imageUrl>
    https://cdn.shopify.com/s/files/1/0679/3333/9954/files/anilin_apolo_keszlet_1.jpg?v=1746129239
@@ -86,7 +86,7 @@ Applikátor szivacs 1db
  </product>
  <product>
   <identifier>
-   oldószermentes-zsírtalanító-250-
+   oldószermentes-zsírtalanító-250-ml
   </identifier>
   <manufacturer>
    Geist
@@ -149,7 +149,7 @@ A Geist Zsírtalanító természetes, jellegzetes édes illattal rendelkezik, am
  </product>
  <product>
   <identifier>
-   oldószeres-folyékony-csiszoló-to
+   oldószeres-folyékony-csiszoló-toll
   </identifier>
   <manufacturer>
    Geist
@@ -192,7 +192,7 @@ Dissolve
    7900
   </price>
   <productUrl>
-   https://geistshop.hu  products  oldoszeres-folyekony-csiszolo-toll-40ml
+   https://geistshop.hu/products/oldoszeres-folyekony-csiszolo-toll-40ml
   </productUrl>
   <imageUrl>
    https://cdn.shopify.com/s/files/1/0679/3333/9954/files/bortisztito_toll.jpg?v=1746115956
@@ -434,7 +434,7 @@ Ez az eszköz hosszú és rugalmas lapjával, ideális a Geist. Easy Filler és 
  </product>
  <product>
   <identifier>
-   bőrtisztító-bőrápoló-termékcsoma
+   bőrtisztító-bőrápoló-termékcsomag
   </identifier>
   <manufacturer>
    Geist
@@ -545,7 +545,7 @@ Repel
  </product>
  <product>
   <identifier>
-   elszíneződés-és-tintaeltávolító-
+   elszíneződés-és-tintaeltávolító
   </identifier>
   <manufacturer>
    Geist
@@ -603,7 +603,7 @@ Tintaeltávolító
  </product>
  <product>
   <identifier>
-   bőrápoló-műbőr-ápoló-szett-3-évn
+   bőrápoló-műbőr-ápoló-szett-3-évnél-fiatalabb-bőrre
   </identifier>
   <manufacturer>
    Geist
@@ -680,7 +680,7 @@ Tisztítókefe 1db
  </product>
  <product>
   <identifier>
-   bőrápoló-műbőr-ápoló-szett-3-évn
+   bőrápoló-műbőr-ápoló-szett-3-évnél-idősebb-bőrre
   </identifier>
   <manufacturer>
    Geist
@@ -828,7 +828,7 @@ A Geist. Thermopad egy szilikon pad, amelyet a profi bőr- és műbőrjavításo
  </product>
  <product>
   <identifier>
-   felülettisztító-és-képernyőtiszt
+   felülettisztító-és-képernyőtisztító
   </identifier>
   <manufacturer>
    Geist
@@ -1137,7 +1137,7 @@ Vasalható javító tapasz, amelyet nagy lyukak javításakor használnak alát�
  </product>
  <product>
   <identifier>
-   finishing-pads-csiszolószivacs-2
+   finishing-pads-csiszolószivacs-2-db
   </identifier>
   <manufacturer>
    Geist
@@ -1183,7 +1183,7 @@ A szivacs középső része lágyabbá teszi a csiszolást a felületen, mivel a
  </product>
  <product>
   <identifier>
-   repel-bőr-műbőr-védőbevonat-50-m
+   repel-bőr-műbőr-védőbevonat-50-ml
   </identifier>
   <manufacturer>
    Geist
@@ -1278,7 +1278,7 @@ Blocker
  </product>
  <product>
   <identifier>
-   bőr-műbőr-rapid-cleaner-bőrtiszt
+   bőr-műbőr-rapid-cleaner-bőrtisztító-pro
   </identifier>
   <manufacturer>
    Geist
@@ -1367,7 +1367,7 @@ Rapid Cleaner PRO
  </product>
  <product>
   <identifier>
-   bőr-műbőr-rapid-cleaner-bőrtiszt
+   bőr-műbőr-rapid-cleaner-bőrtisztító
   </identifier>
   <manufacturer>
    Geist
@@ -1533,7 +1533,7 @@ Alacsony szöszölési tulajdonságai miatt általános tisztításhoz is haszno
    1500
   </price>
   <productUrl>
-   https://geistshop.hu  products  bortisztito-torlokendo-2db
+   https://geistshop.hu/products/bortisztito-torlokendo-2db
   </productUrl>
   <imageUrl>
    https://cdn.shopify.com/s/files/1/0679/3333/9954/files/bortisztito_kendo.jpg?v=1746117757
@@ -1597,7 +1597,7 @@ Alacsony szöszölési tulajdonságai miatt általános tisztításhoz is haszno
    5900
   </price>
   <productUrl>
-   https://geistshop.hu  products  borfestek-szuro-10db
+   https://geistshop.hu/products/borfestek-szuro-10db
   </productUrl>
   <imageUrl>
    https://cdn.shopify.com/s/files/1/0679/3333/9954/files/borfestek_szuro.jpg?v=1746117839
@@ -1651,7 +1651,7 @@ Mattító Adalék
  </product>
  <product>
   <identifier>
-   bőr-műbőr-paszta-aktivátor-alacs
+   bőr-műbőr-paszta-aktivátor-alacsony-hőmérsékleten
   </identifier>
   <manufacturer>
    Geist
@@ -1711,7 +1711,7 @@ Low Temp Activator
  </product>
  <product>
   <identifier>
-   bőr-javító-műbőr-javító-paszta-3
+   bőr-javító-műbőr-javító-paszta-30-ml
   </identifier>
   <manufacturer>
    Geist
@@ -1882,7 +1882,7 @@ Bőrpuhító
  </product>
  <product>
   <identifier>
-   bőrápoló-bőr-konzerváló-viasz-15
+   bőrápoló-bőr-konzerváló-viasz-150-ml
   </identifier>
   <manufacturer>
    Geist
@@ -2024,7 +2024,7 @@ Törlőkendő 1db
  </product>
  <product>
   <identifier>
-   anilin-táska-ápoló-bőrönd-ápoló-
+   anilin-táska-ápoló-bőrönd-ápoló-szett
   </identifier>
   <manufacturer>
    Geist
@@ -2202,7 +2202,7 @@ Bőrragasztó
  </product>
  <product>
   <identifier>
-   bőr-műbőr-filler-pro-folyékony-b
+   bőr-műbőr-filler-pro-folyékony-bőr
   </identifier>
   <manufacturer>
    Geist
@@ -2266,7 +2266,7 @@ Filler PRO Fekete/Fehér
  </product>
  <product>
   <identifier>
-   bőrápoló-bőr-kondicionáló-spray-
+   bőrápoló-bőr-kondicionáló-spray
   </identifier>
   <manufacturer>
    Geist
@@ -2396,7 +2396,7 @@ Bőrminta Készítő Szett
  </product>
  <product>
   <identifier>
-   szövet-és-alcantara-impregnáló-s
+   szövet-és-alcantara-impregnáló-spray
   </identifier>
   <manufacturer>
    Geist
@@ -2457,7 +2457,7 @@ Szövet, Kárpit &amp;amp; Szőnyeg Impregnáló
    12500
   </price>
   <productUrl>
-   https://geistshop.hu  products  szovet-es-alcantara-impregnalo-spray-500-ml
+   https://geistshop.hu/products/szovet-es-alcantara-impregnalo-spray-500-ml
   </productUrl>
   <imageUrl>
    https://cdn.shopify.com/s/files/1/0679/3333/9954/files/alcantara_szovet_impregnalo.jpg?v=1745947010
@@ -2477,7 +2477,7 @@ Szövet, Kárpit &amp;amp; Szőnyeg Impregnáló
  </product>
  <product>
   <identifier>
-   kárpit-szövet-tisztító-és-impreg
+   kárpit-szövet-tisztító-és-impregnáló
   </identifier>
   <manufacturer>
    Geist
@@ -2543,7 +2543,7 @@ Tisztítókefe 1db
    15500
   </price>
   <productUrl>
-   https://geistshop.hu  products  alcantara-es-karpit-tisztito-apolo-szett
+   https://geistshop.hu/products/alcantara-es-karpit-tisztito-apolo-szett
   </productUrl>
   <imageUrl>
    https://cdn.shopify.com/s/files/1/0679/3333/9954/files/szonyeg_es_karpittisztito.jpg?v=1745778293
@@ -2563,7 +2563,7 @@ Tisztítókefe 1db
  </product>
  <product>
   <identifier>
-   szövet-alcantara-tisztítószer-50
+   szövet-alcantara-tisztítószer-500-ml
   </identifier>
   <manufacturer>
    Geist
@@ -2714,7 +2714,7 @@ Easy Filler
  </product>
  <product>
   <identifier>
-   bőrfesték-műbőr-festék-színfriss
+   bőrfesték-műbőr-festék-színfrissítő
   </identifier>
   <manufacturer>
    Geist
@@ -2806,7 +2806,7 @@ Easy Colour Restorer
  </product>
  <product>
   <identifier>
-   bőr-impregnáló-műbőr-impregnáló-
+   bőr-impregnáló-műbőr-impregnáló-500-ml
   </identifier>
   <manufacturer>
    Geist
@@ -2872,7 +2872,7 @@ Impregnáló
  </product>
  <product>
   <identifier>
-   oldószeres-folyékony-csiszoló-pr
+   oldószeres-folyékony-csiszoló-pro
   </identifier>
   <manufacturer>
    Geist
@@ -3029,7 +3029,7 @@ Degreaser Spirit
  </product>
  <product>
   <identifier>
-   bőr-műbőr-zsírtalanító-pro-1000-
+   bőr-műbőr-zsírtalanító-pro-1000-ml
   </identifier>
   <manufacturer>
    Geist
@@ -3301,7 +3301,7 @@ A szintetikus sörték nem szívják magukba a folyadékot, ami ideálissá tesz
    2900
   </price>
   <productUrl>
-   https://geistshop.hu  products  textil-bortisztito-kefe
+   https://geistshop.hu/products/textil-bortisztito-kefe
   </productUrl>
   <imageUrl>
    https://cdn.shopify.com/s/files/1/0679/3333/9954/files/bortisztito_kefe_5.jpg?v=1746127946
